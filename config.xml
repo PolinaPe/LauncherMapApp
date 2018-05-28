@@ -28,8 +28,8 @@ xmlns:gap="http://phonegap.com/ns/1.0">
 	<access origin="*" />
 	<allow-intent href="http://*/*" />
 <allow-intent href="https://*/*" />
+<plugin spec="https://github.com/nchutchind/cordova-plugin-app-launcher" source="git"/>
 
-<gap:plugin name="cordova-plugin-app-launcher" />
 	
 
 
